@@ -2,5 +2,5 @@
    
 ## Studying "Hands on Machine Learning"
 
-### Machine Learning Practice
-### Deep Learning Basic
+### - Machine Learning Practice
+### - Deep Learning Practice
