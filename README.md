@@ -2,5 +2,5 @@
    
 ## Studying "Hands on Machine Learning"
 
-### - Machine Learning Practice
-### - Deep Learning Practice
+- Hands on Machine Learning 교재 코드 복기, 응용 연습
+- 딥러닝 기반 모델링 
